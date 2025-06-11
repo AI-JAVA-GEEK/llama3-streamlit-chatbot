@@ -122,3 +122,5 @@ https://docs.streamlit.io/develop/tutorials/chat-and-llm-apps/build-conversation
 ## Source Code
 
 https://github.com/AI-JAVA-GEEK/llama3-streamlit-chatbot
+
+![Chatbot Screenshot](images/1.png)
